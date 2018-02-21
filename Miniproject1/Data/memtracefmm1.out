@@ -1,0 +1,38 @@
+ Malloc Address: 27230224
+ size of: 1 Number of: 23
+ size of: 2 Number of: 2
+ size of: 4 Number of: 1
+ size of: 8 Number of: 1
+ size of: 100 Number of: 0
+ Total Calls to: 27
+ Malloc Address: 27230336
+ size of: 4 Number of: 4
+ size of: 8 Number of: 1
+ size of: 114992 Number of: 0
+ Total Calls to: 5
+ Malloc Address: 27345344
+ size of: 8 Number of: 2
+ size of: 720 Number of: 0
+ Total Calls to: 2
+ Malloc Address: 27346080
+ size of: 1 Number of: 3
+ size of: 4 Number of: 157
+ size of: 568 Number of: 0
+ Total Calls to: 160
+ Malloc Address: 47609979928592
+ size of: 8 Number of: 1
+ size of: 27262976 Number of: 0
+ Total Calls to: 1
+ Malloc Address: 47610007195664
+ size of: 8 Number of: 5
+ size of: 2097152 Number of: 0
+ Total Calls to: 5
+ Malloc Address: 47610009296912
+ size of: 8 Number of: 16
+ size of: 2097152 Number of: 0
+ Total Calls to: 16
+ Malloc Address: 47610011398160
+ size of: 8 Number of: 1
+ size of: 117125584 Number of: 0
+ Total Calls to: 1
+END OF PINTOOL

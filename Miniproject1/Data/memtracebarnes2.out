@@ -1,0 +1,90 @@
+ Malloc Address: 36556816
+ size of: 1 Number of: 2
+ size of: 7 Number of: 0
+ size of: 8 Number of: 1
+ Total Calls to: 3
+ Malloc Address: 36556848
+ size of: 1 Number of: 2
+ size of: 4 Number of: 1
+ Total Calls to: 3
+ Malloc Address: 36556880
+ size of: 1 Number of: 2
+ size of: 4 Number of: 1
+ size of: 6 Number of: 0
+ Total Calls to: 3
+ Malloc Address: 36556912
+ size of: 1 Number of: 2
+ size of: 4 Number of: 1
+ size of: 5 Number of: 0
+ Total Calls to: 3
+ Malloc Address: 36556944
+ size of: 1 Number of: 3
+ size of: 4 Number of: 1
+ Total Calls to: 4
+ Malloc Address: 36556976
+ size of: 1 Number of: 3
+ size of: 4 Number of: 1
+ Total Calls to: 4
+ Malloc Address: 36557008
+ size of: 1 Number of: 3
+ size of: 4 Number of: 1
+ Total Calls to: 4
+ Malloc Address: 36557040
+ size of: 1 Number of: 2
+ size of: 4 Number of: 1
+ size of: 6 Number of: 0
+ Total Calls to: 3
+ Malloc Address: 36557072
+ size of: 1 Number of: 2
+ size of: 4 Number of: 1
+ size of: 5 Number of: 0
+ Total Calls to: 3
+ Malloc Address: 36557104
+ size of: 1 Number of: 2
+ size of: 2 Number of: 1
+ Total Calls to: 3
+ Malloc Address: 36557136
+ size of: 1232 Number of: 0
+ Total Calls to: 0
+ Malloc Address: 36558384
+ size of: 4 Number of: 9937515
+ size of: 8 Number of: 50300
+ size of: 81920 Number of: 0
+ Total Calls to: 9987815
+ Malloc Address: 47139355484176
+ size of: 8 Number of: 32
+ size of: 33554432 Number of: 0
+ Total Calls to: 32
+ Malloc Address: 47139389046800
+ size of: 8 Number of: 1048515
+ size of: 293601280 Number of: 0
+ Total Calls to: 1048515
+ Malloc Address: 47139682652176
+ size of: 8 Number of: 126
+ size of: 162529280 Number of: 0
+ Total Calls to: 126
+ Malloc Address: 47139845185552
+ size of: 8 Number of: 1430060
+ size of: 293601280 Number of: 0
+ Total Calls to: 1430060
+ Malloc Address: 47140138790928
+ size of: 8 Number of: 538
+ size of: 162529280 Number of: 0
+ Total Calls to: 538
+ Malloc Address: 47140301324304
+ size of: 8 Number of: 17
+ size of: 106954752 Number of: 0
+ Total Calls to: 17
+ Malloc Address: 47140408283152
+ size of: 8 Number of: 7
+ size of: 20971520 Number of: 0
+ Total Calls to: 7
+ Malloc Address: 47140429258768
+ size of: 8 Number of: 7
+ size of: 10485760 Number of: 0
+ Total Calls to: 7
+ Calloc Address: 36640320
+ size of: 8 Number of: 2
+ size of: 16 Number of: 0
+ Total Calls to: 2
+END OF PINTOOL
